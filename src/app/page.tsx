@@ -29,7 +29,7 @@ export default async function HomePage() {
               priority
             />
             <p className="pl-4 text-neutral-800 dark:text-neutral-200">
-              My goal is to become a recognized professional for my work and interpersonal skills, and I am constantly seeking to learn new technologies in order to stay up-to-date. Currently, I am focused on the JavaScript/TypeScript ecosystem: React | Next.js | Node.js | NestJS.
+              My goal is to become a recognized professional for my work and interpersonal skills, and I am constantly seeking to learn new technologies in order to be up-to-date. Currently, I am focused on the JavaScript/TypeScript ecosystem: React | Next.js | Node.js | NestJS.
             </p>
           </div>
       <ul className="flex flex-col md:flex-row mt-8 space-x-0 md:space-x-4 space-y-2 md:space-y-0 font-sm text-neutral-500 dark:text-neutral-400">

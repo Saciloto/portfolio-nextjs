@@ -29,7 +29,7 @@ export default async function Wtm() {
         <div className="mt-8 md:mt-0 ml-0 md:ml-6 space-y-2 text-neutral-500 dark:text-neutral-400">
             <p className="my-5 text-neutral-800 dark:text-neutral-200">
                 WTM provides services to simplify and consolidate exports and imports of services and tecnnologies. We also develop software, searching 
-                simplify the work for our&apos; customers. We have customers in countries like México, Uruguai, United States, and others
+                simplify the work for our customers. We have customers in countries like Mexico, Uruguai, The United States, and others
             </p>
         </div>
       </div>
@@ -48,11 +48,11 @@ export default async function Wtm() {
           <p className="my-5 pl-4 text-neutral-800 dark:text-neutral-200">
               WTM have a great team of people who are very passionate about our company.<br/>
               And I work on the IT departament with software architecture and development.<br/>
-              And I&apos;m hope to help every one with our&apos;s softwares.
+              And I hope to help every one with our softwares.
           </p>
         </div>
         <p className="my-5 text-neutral-800 dark:text-neutral-200">
-            Thank&apos;s! 
+            Thanks! 
         </p>
         <div className='flex items-center gap-4'>
             <a
