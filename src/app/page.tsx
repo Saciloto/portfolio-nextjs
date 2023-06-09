@@ -20,9 +20,12 @@ export default async function HomePage() {
               alt={'name'}
               className="rounded-full"
               src={'/avatar.jpeg'}
-              // placeholder="blur"
               width={100}
-              height={50}
+              height={100}
+              style={{
+                width:'100px',
+                marginBottom: '8px'
+              }}
               priority
             />
             <p className="pl-4 text-neutral-800 dark:text-neutral-200">

@@ -29,24 +29,28 @@ export default async function Wtm() {
         <div className="mt-8 md:mt-0 ml-0 md:ml-6 space-y-2 text-neutral-500 dark:text-neutral-400">
             <p className="my-5 text-neutral-800 dark:text-neutral-200">
                 WTM provides services to simplify and consolidate exports and imports of services and tecnnologies. We also develop software, searching 
-                simplify the work for our&apos;s customers. We have customers in countries like México, Uruguai, United States, and others
+                simplify the work for our&apos; customers. We have customers in countries like México, Uruguai, United States, and others
             </p>
         </div>
       </div>
-      <div className="flex mt-8 md:mt-0 ml-0 space-y-2 text-neutral-500 dark:text-neutral-400">
+      <div className="flex mt-8 md:mt-0 ml-0 space-y-2 flex-col md:flex-row">
         <Image
           alt={'wtm-all-team'}
           className="rounded-lg"
           src={'/all-team.jpeg'}
-          width={300}
-          height={200}
+          width={1000}
+          height={1000}
+          style={{
+            width:'300px'
+          }}
+          priority
           />
-        <p className="my-5 pl-4 text-neutral-800 dark:text-neutral-200">
-            WTM have a great team of people who are very passionate about our company.<br/>
-            And I work on the IT departament with software architecture and development.<br/>
-            And I&apos;m hope to help every one with our&apos;s softwares.
-        </p>
-          </div>
+          <p className="my-5 pl-4 text-neutral-800 dark:text-neutral-200">
+              WTM have a great team of people who are very passionate about our company.<br/>
+              And I work on the IT departament with software architecture and development.<br/>
+              And I&apos;m hope to help every one with our&apos;s softwares.
+          </p>
+        </div>
         <p className="my-5 text-neutral-800 dark:text-neutral-200">
             Thank&apos;s! 
         </p>
